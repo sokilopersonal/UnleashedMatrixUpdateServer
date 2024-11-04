@@ -1,0 +1,57 @@
+{
+  "Groups": [
+    {
+      "Name": "View",
+      "DisplayName": "View",
+      "Elements": [
+        {
+          "Name": "xPos",
+          "Description": [
+            "X screen view position"
+          ],
+          "DisplayName": "X View Position",
+          "Type": "float",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": -0.891
+        },
+		{
+          "Name": "yPos",
+          "Description": [
+            "Y screen view position"
+          ],
+          "DisplayName": "Y View Position",
+          "Type": "float",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": 0.71
+        },
+		{
+          "Name": "scale",
+          "DisplayName": "Ring Scale",
+          "Type": "float",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": 1.245
+        },
+		{
+          "Name": "endScale",
+          "DisplayName": "Ring End Scale",
+          "Type": "float",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": 0.135
+        },
+		{
+          "Name": "travelDuration",
+          "DisplayName": "Ring Travel Duration",
+          "Type": "float",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": 0.5
+        },
+      ]
+    },
+  ],
+  "IniFile": "matrix.ini"
+}
