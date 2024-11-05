@@ -1,4 +1,6 @@
-add mod.ini
 add matrix.ini
 add matrix.json
 add UnleashedMatrix.dll
+add disk/bb/+#SystemCommon.ar.00
+add disk/bb/+#SystemCommon.arl
+add mod.ini
